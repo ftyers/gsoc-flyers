@@ -11,4 +11,5 @@
 * GSoC2018Flyer.nno.odt: Kevin Brubeck Unhammer
 * GSoC2018Flyer.nob.odt: Kevin Brubeck Unhammer
 * GSoC2018Flyer.spa.odt: Marc Riera
+* GSoC2018Flyer.srd.odt: Gianfranco Fronteddu
 * GSoC2018Flyer.tur.odt: Memduh Gökırmak
