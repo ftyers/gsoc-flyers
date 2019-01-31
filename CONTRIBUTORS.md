@@ -14,3 +14,4 @@
 * GSoC2018Flyer.spa.odt: Marc Riera
 * GSoC2018Flyer.srd.odt: Gianfranco Fronteddu
 * GSoC2018Flyer.tur.odt: Memduh Gökırmak
+* GSoC2018Flyer.tat.odt: Mansur Saykhunov
