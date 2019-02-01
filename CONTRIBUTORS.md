@@ -3,7 +3,7 @@
 
 * GSoC2018Flyer.odt: Original
 * GSoC2018Flyer.arg.odt: Juan Pablo Martínez
-* GSoC2018Flyer.cat.odt: Mikel L. Forcada
+* GSoC2018Flyer.cat.odt: Xavi Ivars, previously Mikel L. Forcada
 * GSoC2018Flyer.eng_GB.odt: Francis M. Tyers
 * GSoC2018Flyer.fin.odt: Tommi Pirinen
 * GSoC2018Flyer.kaz.odt: Aida Sundetova
