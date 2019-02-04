@@ -16,3 +16,5 @@
 * GSoC2018Flyer.tur.odt: Memduh Gökırmak
 * GSoC2018Flyer.tat.odt: Mansur Saykhunov
 * GSoC2018Flyer.spa.odt: Mikel L. Forcada
+* GSoC2019Flyer.afr.odt: Andi Qu and Max van der Walt
+
