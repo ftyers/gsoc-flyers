@@ -17,4 +17,4 @@
 * GSoC2018Flyer.tat.odt: Mansur Saykhunov
 * GSoC2018Flyer.spa.odt: Mikel L. Forcada
 * GSoC2019Flyer.afr.odt: Andi Qu and Max van der Walt
-
+* GSoC2019Flyer.fra.odt: Florian Roméo and Aristide Grange
